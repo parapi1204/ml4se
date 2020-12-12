@@ -1,0 +1,1 @@
+This repository contains scripts of "Machine Learning for Software Engineer".
